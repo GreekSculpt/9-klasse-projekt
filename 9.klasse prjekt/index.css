@@ -1,0 +1,21 @@
+body{
+    height: 1000px;
+}
+
+.world-map{
+    margin-bottom: 50px;
+}
+
+.world-map2{
+    height: 100vh;
+    margin-bottom: 50px;
+}
+
+.world-map-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    margin-top: 200px;
+}
